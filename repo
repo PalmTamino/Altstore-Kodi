@@ -16,8 +16,20 @@
       "tintColor": "#2493c7",
       "size": 345885912,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/TaminoPalm/Altstore-Kodi/main/096603EE-E607-4B4F-B863-A5D236998D82.png"
-      ]
+        "https://raw.githubusercontent.com/TaminoPalm/Altstore-Kodi/main/096603EE-E607-4B4F-B863-A5D236998D82.       ]
     }
-  ]
+  ],
+  "news": [
+    {
+      "title": "Taurine now available!",
+      "identifier": "taurine-release",
+      "caption": "Supports iOS 14.0-14.3",
+      "tintColor": "F65656",
+      "imageURL": "https://taurine.app/assets/images/meta.png",
+      "appID": "com.odysseyteam.taurine",
+      "date": "2021-04-01",
+      "notify": false
+    }
+  ],
+  "userInfo": {}
 }
