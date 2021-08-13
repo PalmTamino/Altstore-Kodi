@@ -19,20 +19,5 @@
         "https://raw.githubusercontent.com/TaminoPalm/Altstore-Kodi/main/096603EE-E607-4B4F-B863-A5D236998D82.png"
       ]
     }
-  ],
-  "news": [
-    {
-      "title": "Kodi",
-      "identifier": "kodi-news",
-      "caption": "The best free media player",
-      "tintColor": "#2493c7",
-      "imageURL": "",
-      "appID": "org.xbmc.kodi-ios",
-      "date": "2021-07-17",
-      "notify": true
-    }
-  ],
-  "userInfo": {
-
-  }
+  ]
 }
